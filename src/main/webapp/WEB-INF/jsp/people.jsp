@@ -27,7 +27,7 @@
     <div class="navbar-inner">
         <div class="container">
             <a href="/" class="brand">Spring MVC and Hibernate Template</a>
-            <a href="/" class="brand" id="heroku">by <strong>heroku</strong></a>
+            <a href="/" class="brand" id="heroku">by <strong>Rahul Jain</strong></a>
         </div>
     </div>
 </div>
